@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yashkemkar
 - 👀 I’m interested in becoming a full stack developer.
-- 🌱 I’m currently learning HTML, CSS and Markdown.
+- ✅ I'm mastering HTML, CSS, Markdown and JavaScript.
+- 🌱 I’m currently learning Bash, React.js and Node.js
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: you can message me directly here.
 
